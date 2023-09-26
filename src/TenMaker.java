@@ -21,10 +21,10 @@ public class TenMaker {
 
     //checks inputs
     public static boolean makes10(int num1, int num2){
-        if (num1+num2 == 10){
-            return(true);
+        if (num1+num2 == 10) {
+            return true;
         } else {
-            return(false);
+            return false;
         }
 
     }
